@@ -1,4 +1,4 @@
-def hello(name):
+def greeting(name):
     print(f"Hello {name}")
 
-hello("Git")
+greeting("Git")
