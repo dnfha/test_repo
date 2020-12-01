@@ -1,2 +1,4 @@
-print("Hello")
-print("Git Original Updated")
+def greeting(name):
+    print(f"Hello {name}")
+
+greeting("Git")
