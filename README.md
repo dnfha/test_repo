@@ -5,3 +5,4 @@ For learning and testing purposes
 ## Local Development
 
 1. Open *.html in your browser
+2. Have fun
