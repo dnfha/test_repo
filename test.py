@@ -1,4 +1,9 @@
 def greeting(name):
     print(f"Hello {name}")
 
-greeting("Git")
+
+def pickname():
+    return input("Enter your name: ")
+
+
+greeting(pickname())
