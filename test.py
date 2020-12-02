@@ -6,7 +6,6 @@ def pickname():
     return input("Enter your name: ")
 
 
-
 def age():
     return input("Enter your age: ")
 
