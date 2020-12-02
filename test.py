@@ -6,7 +6,8 @@ def pickname():
     return input("Enter your name: ")
 
 
-def age ():
+
+def age():
     return input("Enter your age: ")
 
 
